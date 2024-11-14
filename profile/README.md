@@ -35,17 +35,7 @@ Nosso objetivo é construir uma comunidade inclusiva e acessível onde qualquer 
 
 ## Comunidade
 
-Participe da nossa comunidade! Além de contribuir para nossos projetos, você também pode:
-
-- Participar de discussões sobre novos recursos e melhorias.
-  
-## Licenciamento
-
-Nossos projetos são licenciados sob a licença **[Nome da Licença, como MIT ou GPL]**. Consulte o arquivo `LICENSE` em cada repositório para obter mais detalhes.
-
+Participe da nossa comunidade! Além de contribuir para nossos projetos, você também pode participar de discussões e sugerir alterações, bem como compartilhar conhecimento.
 ## Agradecimentos
 
 Agradecemos a todos os colaboradores que tornam esta organização possível. Cada contribuição, grande ou pequena, ajuda a construir algo significativo e impactante. Obrigado por fazer parte dessa jornada!
-
----
-
